@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/css/main.def08572.chunk.css",
+    "main.js": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/main.4522fb45.chunk.js",
+    "main.js.map": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/main.4522fb45.chunk.js.map",
+    "runtime-main.js": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/runtime-main.91af055a.js",
+    "runtime-main.js.map": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/runtime-main.91af055a.js.map",
+    "static/js/2.99e99082.chunk.js": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/2.99e99082.chunk.js",
+    "static/js/2.99e99082.chunk.js.map": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/2.99e99082.chunk.js.map",
+    "index.html": "/%E2%80%8Bhttps://royammar.github.io/PlayList/index.html",
+    "precache-manifest.5e6af438a501427d307c5b570fbf1809.js": "/%E2%80%8Bhttps://royammar.github.io/PlayList/precache-manifest.5e6af438a501427d307c5b570fbf1809.js",
+    "service-worker.js": "/%E2%80%8Bhttps://royammar.github.io/PlayList/service-worker.js",
+    "static/css/main.def08572.chunk.css.map": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/css/main.def08572.chunk.css.map",
+    "static/js/2.99e99082.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/js/2.99e99082.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/%E2%80%8Bhttps://royammar.github.io/PlayList/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91af055a.js",
+    "static/js/2.99e99082.chunk.js",
+    "static/css/main.def08572.chunk.css",
+    "static/js/main.4522fb45.chunk.js"
+  ]
+}
